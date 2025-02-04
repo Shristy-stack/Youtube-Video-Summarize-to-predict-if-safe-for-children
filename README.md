@@ -1,6 +1,5 @@
 # Youtube-Video-Summarize-to-predict-if-safe-for-children
-This project showcases an AI-Powered Text Generator built using Flask, the Google Gemini model, and the LangChain framework. The app allows users to input text and receive AI-generated content instantly, providing a powerful tool for content creators and innovators in the AI space.
-
+This Python script downloads audio from a YouTube video, transcribes it using OpenAI Whisper, summarizes the transcript with BART, translates it using MarianMT, and analyzes its safety for children using a RoBERTa-based classifier.
 ## Tools used
 1. **Programming Language**- Python
 2. **YouTube Video Processing**- yt-dlp

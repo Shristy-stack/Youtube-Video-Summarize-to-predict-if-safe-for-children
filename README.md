@@ -11,5 +11,5 @@ This project showcases an AI-Powered Text Generator built using Flask, the Googl
 ## Applications
 - **Child-Safe Content Filtering**: Parents can use the safety classification feature to check if a YouTube video is appropriate for kids.
 - **Automated Lecture Summarization**: Students can upload long lecture videos and get a concise summary.
-- **Language Translation & Localization**: Automatically transcribe and summarize YouTube videos in different languages.
+- **Helping Hearing-Impaired Users**: Deaf users can read transcriptions & summaries of YouTube videos they can't hear.
 - **News Video Summarization**: News organizations can automatically summarize political debates, press conferences, or news reports.
